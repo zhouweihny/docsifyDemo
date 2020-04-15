@@ -1,0 +1,1285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"role",
+				"role_type"
+			],
+			[
+				"gr",
+				"group_\t(util.js)"
+			],
+			[
+				"_rol",
+				"_roleType1"
+			],
+			[
+				"base",
+				"base_times"
+			],
+			[
+				"x",
+				"xlsx"
+			],
+			[
+				"sub",
+				"subBtnDis"
+			],
+			[
+				"curme",
+				"curMedOptionsIndex"
+			],
+			[
+				"clog",
+				"clog\tclog"
+			],
+			[
+				"curMe",
+				"curMedOptionsIndex"
+			],
+			[
+				"medInfo",
+				"div.medInfo"
+			],
+			[
+				"请选择",
+				"请选择药品分类"
+			],
+			[
+				"multip",
+				"multipDelPageAll"
+			],
+			[
+				"grou",
+				"group_type"
+			],
+			[
+				"cur",
+				"curRow"
+			],
+			[
+				"gro",
+				"group_type"
+			],
+			[
+				"empty",
+				"div.empty"
+			],
+			[
+				"dep",
+				"department_id"
+			],
+			[
+				"item",
+				"div.item"
+			],
+			[
+				"tb",
+				"tbl_param\t(index.vue)"
+			],
+			[
+				"datau",
+				"dataUploadExWrap"
+			],
+			[
+				"sho",
+				"showPatintInfo"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"tem",
+				"tempcurmed"
+			],
+			[
+				"setTime",
+				"setTimeout\t(util.js)"
+			],
+			[
+				"pati",
+				"patientTimer"
+			],
+			[
+				"char",
+				"chartData"
+			],
+			[
+				"login",
+				"loginUserInfo"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"doctor",
+				"doctor_id"
+			],
+			[
+				"fetc",
+				"fetchDocList"
+			],
+			[
+				"chang",
+				"changeRecFlag"
+			],
+			[
+				"fin",
+				"fingerRange"
+			],
+			[
+				"ze",
+				"zero"
+			],
+			[
+				"_a",
+				"_attrS"
+			],
+			[
+				"cons",
+				"consumer_id"
+			],
+			[
+				"chec",
+				"checkDate"
+			],
+			[
+				"check",
+				"check_date"
+			],
+			[
+				"chart",
+				"chartDataG"
+			],
+			[
+				"topDa",
+				"topDataS"
+			],
+			[
+				"sen",
+				"sensor_num"
+			],
+			[
+				"zuic",
+				"zuiCusUrl\t(http.js)"
+			],
+			[
+				"content",
+				"div.content"
+			],
+			[
+				"def",
+				"defaultVal"
+			],
+			[
+				"box",
+				"div.box"
+			],
+			[
+				"test",
+				"testPlanName"
+			],
+			[
+				"t",
+				"tableData"
+			],
+			[
+				"hospital",
+				"hospitalUserInfo"
+			],
+			[
+				"medc",
+				"medicine_plan"
+			],
+			[
+				"lead",
+				"leaderId"
+			],
+			[
+				"zmu",
+				"zmuilFlag"
+			],
+			[
+				"bedn",
+				"bed_num"
+			],
+			[
+				"log",
+				"loginUserInfo"
+			],
+			[
+				"clear",
+				"clearDepLeader"
+			],
+			[
+				"nus",
+				"nursing_level"
+			],
+			[
+				"sear",
+				"searchOut"
+			],
+			[
+				"treeDa",
+				"treeDataS"
+			],
+			[
+				"hand",
+				"handleCurrentChange"
+			],
+			[
+				"alarmd",
+				"alarmDepList"
+			],
+			[
+				"lea",
+				"leader_id"
+			],
+			[
+				"暂无",
+				"暂无报警信息"
+			],
+			[
+				"em",
+				"emptyWrap"
+			],
+			[
+				"wra",
+				"warning"
+			],
+			[
+				"tabl",
+				"tableData"
+			],
+			[
+				"tab",
+				"tableDataS"
+			],
+			[
+				"spli",
+				"splice\t(index.vue)"
+			],
+			[
+				"v-for",
+				"v-for=\"(item\t(util.js)"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"sc",
+				"scss"
+			],
+			[
+				"show",
+				"showmoreFlag"
+			],
+			[
+				"com",
+				"companyData"
+			],
+			[
+				"real",
+				"realname"
+			],
+			[
+				"tbl",
+				"tbl_param"
+			],
+			[
+				"compan",
+				"companyData"
+			],
+			[
+				"keshi",
+				"keshiD"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tit",
+				"h1.tit"
+			],
+			[
+				"comp",
+				"components\t(index.vue)"
+			],
+			[
+				"zme",
+				"zmemberDel"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"dia",
+				"dialogVisible"
+			],
+			[
+				"lis",
+				"listLoading\t(index.vue)"
+			],
+			[
+				"rol",
+				"roleType"
+			],
+			[
+				"ke",
+				"keshiS"
+			],
+			[
+				"table",
+				"tableDataS"
+			],
+			[
+				"deep",
+				"deepClone"
+			],
+			[
+				"tre",
+				"treeData"
+			],
+			[
+				"add",
+				"addForm"
+			],
+			[
+				"temp",
+				"tempCounter"
+			],
+			[
+				"searc",
+				"searchData"
+			],
+			[
+				"mu",
+				"multipleSelection"
+			],
+			[
+				"fet",
+				"fetchKeShi"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"unde",
+				"underline"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"J_con",
+				"J_contentWrap"
+			],
+			[
+				"ini",
+				"initInter"
+			],
+			[
+				"bran",
+				"brandList"
+			],
+			[
+				"nurs",
+				"nurseList"
+			],
+			[
+				"lef",
+				"leftReady"
+			],
+			[
+				"doc",
+				"doctorList"
+			],
+			[
+				"nur",
+				"nurseList"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"trans",
+				"transition\t(index.vue)"
+			],
+			[
+				"zca",
+				"zcardR"
+			],
+			[
+				"dire",
+				"directorFlag"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"tota",
+				"totals"
+			],
+			[
+				"curin",
+				"curIndex4"
+			],
+			[
+				"statr",
+				"startdate"
+			],
+			[
+				"er",
+				"errorFlag"
+			],
+			[
+				"flag",
+				"flag1"
+			],
+			[
+				"hide",
+				"hideDialog"
+			],
+			[
+				"pars",
+				"parseFloat"
+			],
+			[
+				"clogs",
+				"clogs\tclogs"
+			],
+			[
+				"after",
+				"afterdinner"
+			],
+			[
+				"befr",
+				"beforedinner"
+			],
+			[
+				"aft",
+				"afterlunch"
+			],
+			[
+				"bef",
+				"beforelunch"
+			],
+			[
+				"cha",
+				"chartData2"
+			],
+			[
+				"zc",
+				"zcardR"
+			],
+			[
+				"请",
+				"请选择四个日期"
+			],
+			[
+				"zuiac",
+				"zuiaccAdd\t(util.js)"
+			],
+			[
+				"bas",
+				"baseUrlsIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docs/index.html",
+			"settings":
+			{
+				"buffer_size": 612,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"rmp",
+				"Package Control: Remove Package"
+			],
+			[
+				"ExportHtml",
+				"ExportHtml: Documentation"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tys",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"txt",
+				"Set Syntax: TeX"
+			],
+			[
+				"text",
+				"Set Syntax: Textile"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sass",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"add r",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jsa",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"conf",
+				"Set Syntax: Git Config"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"remopve",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"rempve",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"rempe",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"colorpick",
+				"Color Picker"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 161.0,
+		"history":
+		[
+			"console.log('99')",
+			"console.log(99)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/workspace/docsifyDemo",
+		"/E/workspace/docsifyDemo/docs"
+	],
+	"file_history":
+	[
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/ZsetGroupLeader/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Member/Add/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Member/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/AddMember/index.vue",
+		"/F/test/郁可唯 - 知否知否.lrc",
+		"/F/test/新建文本文档.lrc",
+		"/E/workspace/cgm-datacenter-portal/src/views/MedManager/AddMed/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/MedManager/ModMed/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/MedManager/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/BedManager/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Analysis/v1/PatientData/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/PatientIndex/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v3/MedUsed/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v3/MedUsed/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/RoleType/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/util/base.scss",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v1/Bloodsugardata/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Cleft/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Home/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Login/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Member/Mod/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/PatientIndex/zaddUserDialog/index.vue",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v4/PatientInfo/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/ModKeshi/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/UserInfo/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/SystemCon/v1/Nurse/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/QualityCon/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Chead/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v4/PatientInfo/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/router/index.js",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v5/Records/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/util/baseData.js",
+		"/E/workspace/cgm-datacenter-portal/src/util/api.js",
+		"/E/workspace/cgm-datacenter-portal/src/views/RoleType/AddRole/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/RoleType/ModRole/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v1/Bloodsugardata/index.vue",
+		"/F/download/pandownload/workspace_汇仁20170920/mydjV22/src/main/webapp/patient/uc-doctor-chat.html",
+		"/F/download/pandownload/workspace_汇仁20170920/mydjV22/src/main/webapp/newui/ui/chat.js",
+		"/F/download/pandownload/workspace_汇仁20170920/mydjV22/src/main/webapp/patient/uc-doctor-list.html",
+		"/F/download/pandownload/workspace_汇仁20170920/ws/src/main/webapp/js/plugins/ueditor/dialogs/charts/charts.html",
+		"/F/download/pandownload/workspace_汇仁20170920/ws/src/main/webapp/js/plugins/ueditor/dialogs/charts/chart.config.js",
+		"/F/download/pandownload/workspace_汇仁20170920/ws/src/main/webapp/js/plugins/ueditor/dialogs/charts/charts.js",
+		"/E/workspace/cgm-datacenter-portal/src/components/Treetransfer/transfer-extend.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/QualityCon/v2/Equipment/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/util/util.js",
+		"/E/workspace/cgm-datacenter-portal/src/components/BackToTop/scroll-to.js",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v1/Statistic/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v2/Multiday/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/App.vue",
+		"/E/workspace/cgm-datacenter-portal/src/components/BackToTop/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/SystemCon/v1/Nurse/Add/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v6/Medicationplan/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/components/TextareaDialog/index.vue",
+		"/E/workspace/cgm-datacenter-portal/package.json",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v8/Device/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/main.js",
+		"/C/Users/zhouweihny/AppData/Local/Temp/360zip$Temp/360$0/使用说明.txt",
+		"/E/workspace/cgm-datacenter-portal/src/util/directives.js",
+		"/F/download/chrome/超级扫码枪/超级扫码枪手机端说明.txt",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v7/Summary/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v5/Medicationplan/AddPlan/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v6/Medicationplan/AddPlan/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v7/OutHospital/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v5/Medicationplan/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/components/MedInfoDia/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/AddGroup/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/mock/index.js",
+		"/F/download/chrome/pcmaster_6.21_full/PCMaster/读我.txt",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/AddBedNum/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v1/Deldata/index.vue",
+		"/E/workspace/vuebuilder/app.js",
+		"/F/download/tim/WeChat Files/zhouweihny/FileStorage/File/2020-04/2020-04-08T01_26_05_818Z-debug.log",
+		"/E/workspace/vuebuilder/package.json",
+		"/E/workspace/vuebuilder/README.md",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v5/GradeManager/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v6/GradeManager/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v6/Testplan/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v5/Testplan/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v5/Advice/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v6/Advice/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/components/Zprint/index.vue",
+		"/F/download/chrome/mobiscroll/2.8.3/mobiscroll版时间 日期 下拉 省市区级联/mobiscroll/plugs/mobiscroll/select.html",
+		"/F/download/chrome/mobiscroll/2.17.1/select.html",
+		"/F/download/chrome/mobiscroll/2.17.1/mobiscroll.custom.min.js",
+		"/F/download/chrome/mobiscroll/2.17.1/date.html",
+		"/F/download/chrome/mobiscroll/2.17.1/jquery-1.8.2.min.js",
+		"/F/download/chrome/mobiscroll/2.17.1/mobiscroll.custom.min.css",
+		"/F/download/chrome/mobiscroll版时间 日期 下拉 省市区级联/mobiscroll/plugs/mobiscroll/css/mobiscroll.scroller.ios.css",
+		"/F/download/chrome/mobiscroll版时间 日期 下拉 省市区级联/mobiscroll/plugs/mobiscroll/js/mobiscroll.core.js",
+		"/F/download/chrome/mobiscroll/2.8.3/mobiscroll版时间 日期 下拉 省市区级联/mobiscroll/plugs/selarea/js/selarea.js",
+		"/F/download/pandownload/workspace_汇仁20170920/ws/src/main/webapp/js/plugins/ueditor/dialogs/preview/ui/mobiscroll/zui-mobiscroll.jq.js",
+		"/E/workspace/cgm-datacenter-portal/src/views/History/v2/Singleday/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/PatienInfoEdit/index.vue",
+		"/E/workspace/vuebuilder/dist/static/js/1.2d3b8dc36eee1b35d968.js",
+		"/E/workspace/vuebuilder/dist/static/js/app.69216fd572b0f208178d.js",
+		"/E/workspace/cgm-datacenter-portal/build/webpack.base.conf.js",
+		"/C/Users/zhouweihny/AppData/Local/Google/Chrome/User Data/Default/Extensions/bfpobnbhgondhofhkolbelkijdmgfjfm/1.0.10_0/lib/jquery.min.js",
+		"/E/workspace/vuebuilder/dist/static/js/0.30be5f39baf7cf746d6c.js",
+		"/F/download/pandownload/workspace_汇仁20170920/ydb/src/main/webapp/pc/ui/js/jquery/1.8.3/jquery.js",
+		"/F/download/pandownload/workspace_汇仁20170920/mydjV22/src/main/webapp/pc/ui/js/jquery/1.6.3/jquery.js",
+		"/C/Users/zhouweihny/AppData/Local/Google/Chrome/User Data/Default/Extensions/dhdgffkkebhmkfjojejmpbldmpobfkfo/4.9_0/vendor/jquery.js",
+		"/E/workspace/cgm-datacenter-portal/src/views/BedManager/AddBed/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/util/http.js",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/AddCompany/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/AddKeshi/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/ModCompany/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/BedManager/ModBed/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/SystemCon/v2/SystemConfig/index.vue",
+		"/F/download/tim/WeChat Files/zhouweihny/FileStorage/File/2020-04/home.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Organization/ZaddGroupFirst/index.vue",
+		"/F/download/chrome/Blog-master/articles/专题系列文章/JavaScript专题之深浅拷贝.md",
+		"/F/download/chrome/Blog-master/README.md",
+		"/C/Users/zhouweihny/Desktop/test/1.ts",
+		"/F/download/chrome/Piti安装包/必读文档.txt",
+		"/E/workspace/cgm-datacenter-portal/src/views/Analysis/v2/SystemConfig/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/util/ztoast.js",
+		"/E/workspace/cgm-datacenter-portal/src/views/Analysis/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v2/Multiday/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Alarm/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/SystemCon/index.vue",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v2/CGM/index.vue",
+		"/E/workspace/vuebuilder/dist/index.html",
+		"/E/workspace/cgm-datacenter-portal/src/views/Hospital/v2/Singleday/index.vue",
+		"/E/workspace/cgm-datacenter-portal/config/index.js"
+	],
+	"find":
+	{
+		"height": 41.1428571429
+	},
+	"find_in_files":
+	{
+		"height": 149.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\workspace\\docsifyDemo"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docs/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"medManager",
+				"src\\views\\MedManager\\AddMed\\index.vue"
+			],
+			[
+				"member",
+				"src\\views\\Member\\index.vue"
+			],
+			[
+				"medus",
+				"src\\views\\History\\v3\\MedUsed\\index.vue"
+			],
+			[
+				"medUsed",
+				"src\\views\\History\\v3\\MedUsed\\index.vue"
+			],
+			[
+				"patient",
+				"src\\views\\History\\v4\\PatientInfo\\index.vue"
+			],
+			[
+				"patientd",
+				"src\\views\\Analysis\\v1\\PatientData\\index.vue"
+			],
+			[
+				"medicationplan",
+				"src\\views\\Hospital\\v5\\Medicationplan\\AddPlan\\index.vue"
+			],
+			[
+				"bloodsugardata",
+				"src\\views\\History\\v1\\Bloodsugardata\\index.vue"
+			],
+			[
+				"summ",
+				"src\\views\\History\\v7\\Summary\\index.vue"
+			],
+			[
+				"outHospital",
+				"src\\views\\Hospital\\v7\\OutHospital\\index.vue"
+			],
+			[
+				"summary",
+				"src\\views\\History\\v7\\Summary\\index.vue"
+			],
+			[
+				"organization",
+				"src\\views\\Organization\\index.vue"
+			],
+			[
+				"patienInfoEdit",
+				"src\\views\\PatienInfoEdit\\index.vue"
+			],
+			[
+				"patientInfo",
+				"src\\views\\History\\v4\\PatientInfo\\index.vue"
+			],
+			[
+				"userInfo",
+				"src\\views\\UserInfo\\index.vue"
+			],
+			[
+				"systemConfig",
+				"src\\views\\SystemCon\\v2\\SystemConfig\\index.vue"
+			],
+			[
+				"bedManager",
+				"src\\views\\BedManager\\index.vue"
+			],
+			[
+				"patientIndex",
+				"src\\views\\PatientIndex\\index.vue"
+			],
+			[
+				"testplan",
+				"src\\views\\History\\v6\\Testplan\\index.vue"
+			],
+			[
+				"patiene",
+				"src\\views\\PatienInfoEdit\\index.vue"
+			],
+			[
+				"record",
+				"src\\views\\History\\v5\\Records\\index.vue"
+			],
+			[
+				"login",
+				"src\\views\\Login\\index.vue"
+			],
+			[
+				"base",
+				"src\\util\\base.scss"
+			],
+			[
+				"bloods",
+				"src\\views\\Hospital\\v1\\Bloodsugardata\\index.vue"
+			],
+			[
+				"device",
+				"src\\views\\History\\v8\\Device\\index.vue"
+			],
+			[
+				"records",
+				"src\\views\\History\\v5\\Records\\index.vue"
+			],
+			[
+				"zpri",
+				"src\\components\\ZprintImg\\index.vue"
+			],
+			[
+				"cgm",
+				"src\\views\\Hospital\\v2\\CGM\\index.vue"
+			],
+			[
+				"deldata",
+				"src\\views\\History\\v1\\Deldata\\index.vue"
+			],
+			[
+				"multiday",
+				"src\\views\\History\\v2\\Multiday\\index.vue"
+			],
+			[
+				"gradeManager",
+				"src\\views\\History\\v6\\GradeManager\\index.vue"
+			],
+			[
+				"zprintImg",
+				"src\\components\\ZprintImg\\index.vue"
+			],
+			[
+				"devic",
+				"src\\views\\History\\v8\\Device\\index.vue"
+			],
+			[
+				"patientData",
+				"src\\views\\Analysis\\v1\\PatientData\\index.vue"
+			],
+			[
+				"bloo",
+				"src\\views\\Hospital\\v1\\Bloodsugardata\\index.vue"
+			],
+			[
+				"equipment",
+				"src\\views\\QualityCon\\v2\\Equipment\\index.vue"
+			],
+			[
+				"devi",
+				"src\\views\\History\\v8\\Device\\index.vue"
+			],
+			[
+				"js",
+				"package.json"
+			],
+			[
+				"roleType",
+				"src\\views\\RoleType\\index.vue"
+			],
+			[
+				"vue",
+				"build\\vue-loader.conf.js"
+			],
+			[
+				"org",
+				"src\\views\\Organization\\index.vue"
+			],
+			[
+				"statistic",
+				"src\\views\\Hospital\\v1\\Statistic\\index.vue"
+			],
+			[
+				"add",
+				"src\\views\\History\\v1\\Bloodsugardata\\Add\\index.vue"
+			],
+			[
+				"nurse",
+				"src\\views\\SystemCon\\v1\\Nurse\\index.vue"
+			],
+			[
+				"PatienInfoEdit",
+				"src\\views\\PatienInfoEdit\\index.vue"
+			],
+			[
+				"singleday",
+				"src\\views\\Hospital\\v2\\Singleday\\index.vue"
+			],
+			[
+				"patien",
+				"src\\views\\Analysis\\v1\\PatientData\\index.vue"
+			],
+			[
+				"pwdChange",
+				"src\\views\\PwdChange\\index.vue"
+			],
+			[
+				"trend",
+				"src\\views\\History\\v1\\Trend\\index.vue"
+			],
+			[
+				"baseData",
+				"src\\util\\baseData.js"
+			],
+			[
+				"print",
+				"src\\components\\Zprint\\index.vue"
+			],
+			[
+				"prin",
+				"src\\views\\PatientIndex\\zaddUserDialog\\index.vue"
+			],
+			[
+				"single",
+				"src\\views\\History\\v2\\Singleday\\index.vue"
+			],
+			[
+				"outh",
+				"src\\views\\Hospital\\v7\\OutHospital\\index.vue"
+			],
+			[
+				"util",
+				"src\\util\\util.js"
+			],
+			[
+				"GradeManager",
+				"src\\views\\Hospital\\v5\\GradeManager\\index.vue"
+			],
+			[
+				"phoneChange",
+				"src\\views\\PhoneChange\\index.vue"
+			],
+			[
+				"uti",
+				"src\\util\\util.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.168067227,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\workspace\\hrcxld\\汇仁采销联动.sublime-workspace"
+			]
+		],
+		"width": 379.966386555
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
