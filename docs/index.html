@@ -12,18 +12,9 @@
 <body>
   <div id="app"></div>
   <script>
-    var gitalkConfig = {
-      clientID: '084f309ea8bc385148bc',
-      clientSecret: 'fa4bff71adc7fbb44a7ca6deffecc9ec43e29301',
-      accessToken: '30c55e31acbb0cb61d30f92d14e32541880eefaf',
-      repo: 'Nodejs-Roadmap',
-      owner: 'q-angelo',
-      admin: ["q-angelo"],
-      distractionFreeMode: false
-    };
     window.$docsify = {
-      name: '《Node.js技术栈》',
-      repo: 'https://github.com/Q-Angelo/Nodejs-Roadmap',
+      name: '《docsifyDemo》',
+      repo: 'https://github.com/zhouweihny/docsifyDemo',
       auto2top: true,
       coverpage: true,
       loadSidebar: true,
@@ -43,27 +34,7 @@
       plugins: [
         function (hook, vm) {
           hook.doneEach(function() {
-            var label, domObj, main, divEle, gitalk;
-            label = vm.route.path.split("/").pop();
-            domObj = Docsify.dom;
-            main = domObj.getNode("#main");
-
-            Array.apply(
-              null,
-              document.querySelectorAll("div.gitalk-container")
-            ).forEach(function(ele) {
-              ele.remove();
-            });
-
-            divEle = domObj.create("div");
-            divEle.id = "gitalk-container-" + label;
-            divEle.className = "gitalk-container";
-            divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
-            domObj.appendTo(domObj.find(".content"), divEle);
-            gitalk = new Gitalk(
-              Object.assign(gitalkConfig, { id: !label ? "home" : label })
-            );
-            gitalk.render("gitalk-container-" + label);
+            
           });
         }
       ]
